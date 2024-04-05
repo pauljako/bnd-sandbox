@@ -1,0 +1,6 @@
+{
+    "name": "bnd-sandbox",
+    "command": {
+        "run": "./main.py"
+    }
+}
